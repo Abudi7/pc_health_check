@@ -38,7 +38,7 @@ chkdsk results here...
 </body>
 </html>
 ```
-Usage:
-1- Save the script as system_check_html.bat.
-2- Run the batch file.
-3- It will generate an HTML report (pc_health_check.html) and automatically open it in your default web browser.
+### Usage:
+- Save the script as system_check_html.bat.
+- Run the batch file.
+- It will generate an HTML report (pc_health_check.html) and automatically open it in your default web browser.
